@@ -1,4 +1,9 @@
 # **Sales and Customer Analysis Dashboard**
+![image](https://github.com/user-attachments/assets/d9d54494-8d63-40c1-8d7c-050691d4f11d)
+![image](https://github.com/user-attachments/assets/465e7d9b-0485-445f-8c95-cfdf4fa96f56)
+![image](https://github.com/user-attachments/assets/205af03b-63fa-4796-9c81-834d1554aaaf)
+
+
 
 ## **Link to the Project**
 https://public.tableau.com/app/profile/omkardabholkar/viz/SalesDashboard_17100056219520/SalesDashboard
