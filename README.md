@@ -1,7 +1,6 @@
 # **Sales and Customer Analysis Dashboard**
-![image](https://github.com/user-attachments/assets/d9d54494-8d63-40c1-8d7c-050691d4f11d)
-![image](https://github.com/user-attachments/assets/465e7d9b-0485-445f-8c95-cfdf4fa96f56)
-![image](https://github.com/user-attachments/assets/205af03b-63fa-4796-9c81-834d1554aaaf)
+![image](https://github.com/user-attachments/assets/c7c68664-6379-40d6-aec0-62b345bc6338)
+
 
 
 
