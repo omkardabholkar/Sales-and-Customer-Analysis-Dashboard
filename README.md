@@ -1,7 +1,7 @@
 # **Sales and Customer Analysis Dashboard**
 
 ## **Link to the Project**
-[Provide the Tableau Public Link Here]
+https://public.tableau.com/app/profile/omkardabholkar/viz/SalesDashboard_17100056219520/SalesDashboard
 
 ---
 
@@ -70,15 +70,7 @@ The **Sales and Customer Analysis Dashboard** is a comprehensive Tableau project
 
 ---
 
-## **5. Logical Diagram**
-
-Below is a visual representation of the data flow and architecture of the project:
-
-![Logical Diagram](/mnt/data/A_logical_diagram_showing_the_flow_of_data_for_a_T.png)
-
----
-
-## **6. Example SQL Code for Data Analysis**
+## **5. Example SQL Code for Data Analysis**
 
 Here is an example SQL query used to extract sales and customer data for 2023 before importing into Tableau:
 
